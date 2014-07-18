@@ -27,6 +27,26 @@ $.noty.defaults.layout = 'bottom'
 
 # Changelog
 
+### 2.2.2
+
+- Update Noty to `2.2.2`
+
+### 2.2.0
+
+- Update Noty to `2.2.0`
+
+### 2.1.4
+
+- Update Noty to `2.1.4`
+
+### 2.1.0.1
+
+- Add MIT Licence to gemspec
+
+### 2.1.0
+
+- Update Noty to `2.1.0`
+
 ### 2.0.3.1
 
 - Make it compatible with Rails 4 version (Now is an instance of `Gem::Version`)
